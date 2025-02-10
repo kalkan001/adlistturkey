@@ -7,20 +7,11 @@
 
 
 
-Sayın Google; Reklamlarını da al defol git!
+Kendim için hazırlamış olduğum bir host listesi kaynağıdır.
+Ticari bir işlem yapmadığınız sürece izinsiz ve ücretsiz kullanıma açıktır.
 
-
-Tabiki Microsoft ve yandaşları hepiniz defolun
-
-
-
-diğer aşamada Türkiye için müstehcen içerik filtresi eklenecek.
-
-
-Aileler için en sağlam reklam engelleme kaynağı olması dileği ile...
-
-
-
+Not = Xiaomi cihazlarda sorun çıkarabilir çünkü tüm veri trafiği engellenmiştir.
 
 Kalkan Company ©
-Hi this is a adlist
+
+Hi this is a adlist for Türkiye
